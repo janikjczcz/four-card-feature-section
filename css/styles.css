@@ -1,13 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
 
 :root {
-  --grey-500: #4D4F62;
-  --grey-400: #6A7178;
+  --grey-500: #4d4f62;
+  --grey-400: #6a7178;
   --white: #fff;
-  --red: #EA5454;
-  --cyan: #44D3D2;
-  --blue: #549EF2;
-  --orange: #FCAE4A;
+  --red: #ea5454;
+  --cyan: #44d3d2;
+  --blue: #549ef2;
+  --orange: #fcae4a;
 
   --font-family: "Poppins", sans-serif;
   --font-title-bold: 600 3.6rem/1.4 var(--font-family); /* text preset 1, .25rem letter spacing*/
@@ -16,7 +16,7 @@
   --font-body: 400 1.5rem/1.4 var(--font-family); /* text preset 4, 0rem letter spacing*/
   --font-caption: 400 1.3rem/1.6 var(--font-family); /* text preset 5, 0rem letter spacing*/
 
-  --space-100: .8rem;
+  --space-100: 0.8rem;
   --space-200: calc(var(--space-100) * 2);
   --space-300: calc(var(--space-100) * 3);
   --space-400: calc(var(--space-100) * 4);
@@ -44,4 +44,16 @@
 
 html {
   font-size: 62.5%;
+}
+
+footer {
+  font: var(--font-body);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
