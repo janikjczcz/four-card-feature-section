@@ -33,8 +33,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### What I learned
 
-Practiced using grid for positioning elements.
-I've learned that @media uses 100% font size even if I set the font size to 62.5%
+- Practiced using grid for positioning elements.
+- I've learned that @media uses 100% font size even if I set the font size to 62.5%
 
 ## Author
 

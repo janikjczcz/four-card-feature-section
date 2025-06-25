@@ -121,7 +121,7 @@ main {
   min-width: 28rem;
   min-height: 25rem;
   background-color: var(--white);
-  box-shadow: 0 1.5rem 3rem -1.1rem #83a6d2;
+  box-shadow: 0 1.5rem 3rem -1.1rem rgba(131,166,210,0.5);
   border-radius: var(--space-100);
 }
 
